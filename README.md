@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a passionate software developer with a keen interest in Development in TypeScript, Machine Learning and Data Science. My journey in the world of programming started when I discovered my love for solving real-world problems using technology.
+I am a passionate software developer with a keen interest of Development in TypeScript, .NET, and Data Analysis in Machine Learning and Data Science. My journey in the world of programming started when I discovered my love for solving real-world problems using technology.
 
 - 🌱 I'm currently exploring advanced Machine Learning techniques.
 - 💡 I believe in the power of data to drive informed decisions and create impactful solutions.
