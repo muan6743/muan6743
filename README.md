@@ -6,8 +6,8 @@ I am a passionate software developer with a keen interest of Development in Type
 
 - 🌱 I'm currently exploring advanced Machine Learning techniques.
 - 💡 I believe in the power of data to drive informed decisions and create impactful solutions.
-- 🔭 I'm constantly working on honing my coding skills in Python and JavaScript.
-- 📚 Learning never stops: I enjoy diving into new technologies and languages.
+- 🔭 I'm constantly working on honing my coding skills in Python, C#, and JavaScript.
+- 📚 Learning never stops: I enjoy diving into new technologies and languages like TypeScript, .NET and Go lang.
 ## Projects
 
 ### Project 1: Sentiment Analysis with Python
