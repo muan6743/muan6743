@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a passionate software developer with a keen interest of Development in TypeScript, .NET, and Data Analysis in Machine Learning and Data Science. My journey in the world of programming started when I discovered my love for solving real-world problems using technology.
+I am a passionate software developer with a keen interest of Development in Python, TypeScript, .NET, and Data Analysis in Machine Learning and Data Science. My journey in the world of programming started when I discovered my love for solving real-world problems using technology.
 
 - 🌱 I'm currently exploring advanced Machine Learning techniques.
 - 💡 I believe in the power of data to drive informed decisions and create impactful solutions.
@@ -15,6 +15,12 @@ A Python project where I used Natural Language Processing techniques to analyze 
 
 ### Project 2: Exploratory Data Analysis (Data Science)
 Conducted exploratory data analysis on a dataset related to real estate prices. Leveraged Python libraries like Pandas, Matplotlib, and Seaborn to visualize data patterns and gain insights.
+
+### Project 3: Cuurency Converter
+A simple currency converter application built with TypeScript. This app allows users to convert an amount from one currency to another using up-to-date exchange rates fetched from the ExchangeRatesAPI.
+
+### Python Development Projects:
+This Repository related to diffrent types of Python development projects from beginner to intermediate.
 
 ## Coding Practices
 
