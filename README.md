@@ -16,7 +16,7 @@ A Python project where I used Natural Language Processing techniques to analyze 
 ### Project 2: Exploratory Data Analysis (Data Science)
 Conducted exploratory data analysis on a dataset related to real estate prices. Leveraged Python libraries like Pandas, Matplotlib, and Seaborn to visualize data patterns and gain insights.
 
-### Project 3: Cuurency Converter
+### Project 3: Currency Converter
 A simple currency converter application built with TypeScript. This app allows users to convert an amount from one currency to another using up-to-date exchange rates fetched from the ExchangeRatesAPI.
 
 ### Python Development Projects:
